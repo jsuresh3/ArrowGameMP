@@ -1,4 +1,4 @@
-ArrowGameMP by Kevin,James,Peng and Ashan
+ArrowGameMP by Kevin, James, Peng and Ashan
 =================================================================================================
 #Execution
 
