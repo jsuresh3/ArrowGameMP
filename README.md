@@ -4,7 +4,7 @@ ArrowGameMP by Kevin, James, Peng and Ashan
 
 To run the file you can click the executable in
 
-SOFE4790_051219_GAME-EXE\New Unity Project (1).exe
+GAME-EXE\ArrowGame.exe
 
 and it will launch the game. 
 After going through the menu you can configure whether you want to run the app as a 
